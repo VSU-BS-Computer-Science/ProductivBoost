@@ -1,5 +1,5 @@
 Project name: ProductivBoost  
-Course: CSci 151 Event Driven Programming  
+Course: CSci 151 - Event Driven Programming  
 Author: Graeme Xyber Pastoril (2021)  
   
 Summary:  
