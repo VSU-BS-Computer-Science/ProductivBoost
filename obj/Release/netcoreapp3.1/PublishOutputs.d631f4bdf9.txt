@@ -1,0 +1,5 @@
+E:\Documents\Software Projects\desktop\ProductivBoostProject\bin\publish\ProductivBoost.exe
+E:\Documents\Software Projects\desktop\ProductivBoostProject\bin\publish\ProductivBoost.dll
+E:\Documents\Software Projects\desktop\ProductivBoostProject\bin\publish\ProductivBoost.deps.json
+E:\Documents\Software Projects\desktop\ProductivBoostProject\bin\publish\ProductivBoost.runtimeconfig.json
+E:\Documents\Software Projects\desktop\ProductivBoostProject\bin\publish\ProductivBoost.pdb

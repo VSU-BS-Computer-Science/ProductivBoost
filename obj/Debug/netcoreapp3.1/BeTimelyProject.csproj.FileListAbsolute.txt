@@ -1,0 +1,17 @@
+E:\Documents\Software Projects\desktop\ProductivBoostProject\bin\Debug\netcoreapp3.1\BeTimelyProject.exe
+E:\Documents\Software Projects\desktop\ProductivBoostProject\bin\Debug\netcoreapp3.1\BeTimelyProject.deps.json
+E:\Documents\Software Projects\desktop\ProductivBoostProject\bin\Debug\netcoreapp3.1\BeTimelyProject.runtimeconfig.json
+E:\Documents\Software Projects\desktop\ProductivBoostProject\bin\Debug\netcoreapp3.1\BeTimelyProject.runtimeconfig.dev.json
+E:\Documents\Software Projects\desktop\ProductivBoostProject\bin\Debug\netcoreapp3.1\BeTimelyProject.dll
+E:\Documents\Software Projects\desktop\ProductivBoostProject\bin\Debug\netcoreapp3.1\BeTimelyProject.pdb
+E:\Documents\Software Projects\desktop\ProductivBoostProject\obj\Debug\netcoreapp3.1\BeTimelyProject.csprojAssemblyReference.cache
+E:\Documents\Software Projects\desktop\ProductivBoostProject\obj\Debug\netcoreapp3.1\BeTimelyProject.csproj.GenerateResource.cache
+E:\Documents\Software Projects\desktop\ProductivBoostProject\obj\Debug\netcoreapp3.1\BeTimelyProject.AssemblyInfoInputs.cache
+E:\Documents\Software Projects\desktop\ProductivBoostProject\obj\Debug\netcoreapp3.1\BeTimelyProject.AssemblyInfo.cs
+E:\Documents\Software Projects\desktop\ProductivBoostProject\obj\Debug\netcoreapp3.1\BeTimelyProject.csproj.CoreCompileInputs.cache
+E:\Documents\Software Projects\desktop\ProductivBoostProject\obj\Debug\netcoreapp3.1\BeTimelyProject.dll
+E:\Documents\Software Projects\desktop\ProductivBoostProject\obj\Debug\netcoreapp3.1\BeTimelyProject.pdb
+E:\Documents\Software Projects\desktop\ProductivBoostProject\obj\Debug\netcoreapp3.1\BeTimelyProject.genruntimeconfig.cache
+E:\Documents\Software Projects\desktop\ProductivBoostProject\obj\Debug\netcoreapp3.1\BeTimelyProject.MainForm.resources
+E:\Documents\Software Projects\desktop\ProductivBoostProject\obj\Debug\netcoreapp3.1\BeTimelyProject.RoutineForm.resources
+E:\Documents\Software Projects\desktop\ProductivBoostProject\obj\Debug\netcoreapp3.1\BeTimelyProject.TaskForm.resources

@@ -1,0 +1,2 @@
+E:\Documents\Software Projects\desktop\ProductivBoostProject\bin\publish\ProductivBoost.pdb
+E:\Documents\Software Projects\desktop\ProductivBoostProject\bin\publish\ProductivBoost.exe
